@@ -88,6 +88,20 @@ const technologies = [
 ];
 
 const experiences = [
+  {
+    title: "Senior Engineer",
+    company_name: "Publicis Sapient",
+    icon: publicissapient,
+    iconBg: "#FFFFFF",
+    date: "January 2024 - Present",
+    points: [
+      "Led the front-end migration of the Verizon Wireless website to Next.js, implementing SSR, CSR, and SSG strategies to achieve optimal performance and enhanced SEO."
+"Optimized client-side data handling by integrating TanStack Query, reducing redundant API calls and boosting data-fetching performance by 30%."
+"Improved product stability by implementing comprehensive unit and integration tests using RTL and Jest, resulting in a 25% reduction post-deployment UI defects."
+"Developed and standardized reusable, accessible UI components for the Marriott International platform, leveraging Storybook and Atomic Architecture."
+"Spearheaded development of AI/GenAI features for Total Wireless and Marriott’s Homes and Villas, enhancing content personalization and search experiences.",
+    ],
+  },
     {
     title: "Experience Engineer L2",
     company_name: "Publicis Sapient",
