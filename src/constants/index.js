@@ -93,7 +93,7 @@ const experiences = [
     company_name: "Publicis Sapient",
     icon: publicissapient,
     iconBg: "#FFFFFF",
-    date: "January 2024 - Present",
+    date: "November 2025 - Present",
     points: [
       "Led the front-end migration of the Verizon Wireless website to Next.js, implementing SSR, CSR, and SSG strategies to achieve optimal performance and enhanced SEO."
 "Optimized client-side data handling by integrating TanStack Query, reducing redundant API calls and boosting data-fetching performance by 30%."
@@ -107,7 +107,7 @@ const experiences = [
     company_name: "Publicis Sapient",
     icon: publicissapient,
     iconBg: "#FFFFFF",
-    date: "January 2024 - Present",
+    date: "January 2024 - October 2025",
     points: [
       "Developing and maintaining web applications using Next.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
